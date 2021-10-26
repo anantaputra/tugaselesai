@@ -8,7 +8,7 @@ if (empty($_POST['token_id'])) {
     die('Empty token_id!');
 }
 
-Config::$serverKey = '<your server key>';
+Config::$serverKey = 'SB-Mid-server-b6rcWtmyXKvX39nh70fMzV5P';
 // Uncomment for append and override notification URL
 // Config::$appendNotifUrl = "https://example.com";
 // Config::$overrideNotifUrl = "https://example.com";

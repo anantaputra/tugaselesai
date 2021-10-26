@@ -4,7 +4,7 @@ namespace Midtrans;
 
 require_once dirname(__FILE__) . '/../Midtrans.php';
 Config::$isProduction = false;
-Config::$serverKey = '<your serverkey>';
+Config::$serverKey = 'SB-Mid-server-b6rcWtmyXKvX39nh70fMzV5P';
 $notif = new Notification();
 
 $transaction = $notif->transaction_status;

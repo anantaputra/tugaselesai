@@ -3,7 +3,7 @@ namespace Midtrans;
 
 require_once dirname(__FILE__) . '/../../Midtrans.php';
 //Set Your server key
-Config::$serverKey = "<your server key>";
+Config::$serverKey = "SB-Mid-server-b6rcWtmyXKvX39nh70fMzV5P";
 
 // define variables and set to empty values
 $number = "";

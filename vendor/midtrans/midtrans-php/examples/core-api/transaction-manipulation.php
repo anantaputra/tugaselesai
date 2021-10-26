@@ -4,7 +4,7 @@ namespace Midtrans;
 
 require_once dirname(__FILE__) . '/../../Midtrans.php';
 
-Config::$serverKey = '<your server key>';
+Config::$serverKey = 'SB-Mid-server-b6rcWtmyXKvX39nh70fMzV5P';
 
 if (strpos(Config::$serverKey, 'your ') != false ) {
     echo "<code>";
